@@ -1,0 +1,4 @@
+; calibrate printer - pylon A
+
+G28
+G0 F400 X-34 Y-20 Z0
